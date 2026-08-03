@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akash Suresh Kulkarni
 
 🎓 Computer Science Student @ Bangalore Institute of Technology  
-📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast | 💻 Backend Developer
+Data Analytics | AI/ML | Backend Engineering | System Design
 
 ---
 
