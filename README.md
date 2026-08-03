@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash Suresh Kulkarni
 
-<!--
-**akashsuresh2005/akashsuresh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Bangalore Institute of Technology  
+📊 Aspiring Data Analyst | 🤖 AI/ML Enthusiast | 💻 Backend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Data Analytics:** Python • SQL • Power BI • Excel • Pandas • NumPy
+
+**Machine Learning:** Scikit-learn • TensorFlow 
+
+**Backend:** • Express.js  • REST APIs
+
+**Frontend:** React • HTML • CSS • JavaScript
+
+**Database:** MySQL • MongoDB
+
+**Developer Tools:** Git • GitHub 
+
+**Core Concepts:** System Design • OOP • DSA  • Authentication
+
+---
+
+## 💼 Experience
+
+- **Data Analyst Intern** @ Elevate Labs
+- ⭐ **5★ SQL** on HackerRank
+
+---
+
+## 📂 Featured Projects
+
+- 🫁 PneuScan AI
+- 📦 Supply Chain & Inventory Optimization
+- ₿ Cryptocurrency Data Analysis
+
+---
+
+## 🏆 Certifications
+
+- Oracle OCI AI Foundations Associate
+- Data Analytics Masters (Udemy)
+- State-Level Hackathon Participant
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** akashraghvendra2654@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/akash-kulkarni-146a5a298
+
+💻 **GitHub:** https://github.com/akashsuresh2005
