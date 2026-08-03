@@ -19,7 +19,7 @@ Data Analytics | ML | Backend development | System Design
 
 **Developer Tools:** Git • GitHub 
 
-**Core Concepts:** System Design • OOP • DSA  • Authentication
+**Core Concepts:** System Design • OOP • DSA(Basics)  • Authentication
 
 ---
 
