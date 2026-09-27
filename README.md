@@ -17,9 +17,9 @@ Data Analytics | ML | Backend development | System Design
 
 **Database:** MySQL • MongoDB
 
-**Developer Tools:** Git • GitHub 
+**Developer Tools:** Git • GitHub • VS code
 
-**Core Concepts:** System Design • OOP • DSA(Basics)  • Authentication
+**Core Concepts:** System Design • OOPs • OS  • CN • DBMS 
 
 ---
 
