@@ -32,9 +32,10 @@ Data Analytics | ML | Backend development | System Design
 
 ## 📂 Featured Projects
 
-- 🫁 PneuScan AI
+- 🫁 PneuScan AI - Multimodal Pneumonia Detection & Clinical Analysis Ecosystem
 - 📦 Supply Chain & Inventory Optimization
 - ₿ Cryptocurrency Data Analysis
+- 🌾 AI-Driven Post-Harvest Loss Prediction & Cold-Chain Logistics Optimization
 
 ---
 
